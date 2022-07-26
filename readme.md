@@ -15,13 +15,13 @@
 
 - I also learned how to design Buttons and Navbar.
 
-- I also learned basic flex properties.
+- I also learned flex properties.
 
-- This project took around 3.5 hours to complete.
+- This project took around 2 hours to complete.
 
 ## Live Link of the Project:
 
-[Live Project Link]()
+[Live Project Link](https://no-competition.netlify.app/)
 
 ## Output:
 
